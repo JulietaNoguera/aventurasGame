@@ -1,5 +1,5 @@
 
-# Juego de aventura
+# Juego de aventura 2
 
 Se debe desarrollar un juego con al menos dos niveles diferenciados. 
 
